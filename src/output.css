@@ -571,6 +571,10 @@ video {
   margin-top: 300px;
 }
 
+.mt-\[0px\] {
+  margin-top: 0px;
+}
+
 .flex {
   display: flex;
 }
@@ -658,6 +662,18 @@ video {
   font-size: 50px;
 }
 
+.text-\[20px\] {
+  font-size: 20px;
+}
+
+.text-\[500px\] {
+  font-size: 500px;
+}
+
+.text-\[40px\] {
+  font-size: 40px;
+}
+
 .font-\[700\] {
   font-weight: 700;
 }
@@ -683,6 +699,11 @@ video {
 
 .text-\[\] {
   color: ;
+}
+
+.text-\[\#0A61F7\] {
+  --tw-text-opacity: 1;
+  color: rgb(10 97 247 / var(--tw-text-opacity, 1));
 }
 
 .doder{
