@@ -587,6 +587,14 @@ video {
   display: none;
 }
 
+.w-\[\] {
+  width: ;
+}
+
+.w-\[100\%\] {
+  width: 100%;
+}
+
 .max-w-\[1200px\] {
   max-width: 1200px;
 }
